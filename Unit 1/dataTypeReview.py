@@ -15,3 +15,7 @@ print(x)
 Pantry = ["bread", "bananas", "Ravioli"]
 print(Pantry)
 print("there is more bread than bananas")
+
+school = "boys latin" # string
+phoneNumber = 2153213445
+isEnrolled = True
