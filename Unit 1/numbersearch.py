@@ -14,5 +14,14 @@ def numberSearch(numberList, value):
             break
         else:
             print("not the smallest number")
-            
+
+
+def minMax(numberList):
+    print("the largest number is", max(numberList))
+    print("the smallest number is", min(numberList))
 numberSearch(numberList, value)
+
+
+
+txt = "Good Morning"[::-1]
+print(txt)
