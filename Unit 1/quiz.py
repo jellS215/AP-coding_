@@ -17,14 +17,14 @@ Answer1: = "linear search is a method for finding a specific value in a list by 
 
 # 2. How many steps would it take to get to the desired number of 98 using linear search?
 # Please write your response using complete sentences.
-Answer2: = "it would take 7 steps to find the number 98 using a linear search in the given list, because the search checks each element one by one until it finds the target number."
+Answer2: = "it would take 6 steps to find the number 98 using a linear search in the given list, because the search checks each element one by one until it finds the target number."
 
 listA = [10,24,34,35,67,98,101]
 
 # 3. How many steps would it take to get to the desired number of 150 using a binary search?
 # Please write your response using complete sentences.
 listB = [1,40, 44, 55, 70, 93, 99, 134, 145, 150, 200, 244]
-Answer3: = "it would take 4 steps to find the number 150 using a binary search in the given sorted list, because the search divides the list in half."
+Answer3: = "it would take 2 steps to find the number 150 using a binary search in the given sorted list, because the search divides the list in half."
 
 # 4. In your own words describe what an algorithm is. 
 # Please write your response using complete sentences.
