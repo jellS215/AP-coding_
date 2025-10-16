@@ -1,7 +1,7 @@
 import data
 import random
 
-mystery_words = ["ANGEL", "CLOUDY", "SUNSHINE"]
+mystery_words = ["ANGEL", "CLOUDY", "SUNSHINE","RAINBOW", "WINDY", "SNOWY", "STORMY", "THUNDER", "LIGHTNING", "HURRICANE", "TORNADO", "FOG", "DRIZZLE", "BREEZE", "HAIL", "ICY", "MISTY", "DROPLET", "GUSTY", "OVERCAST", "TEMPEST", "TWISTER", "WATERSPOUT", "ZEPHYR", "ZEUS"]
 mystery_word = random.choice(mystery_words)
 
 wrong_guesses = []
