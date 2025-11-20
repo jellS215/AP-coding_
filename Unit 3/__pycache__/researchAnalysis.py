@@ -5,7 +5,7 @@ import matplotlib.pyplot as plt
 advanceStates = get_advanced_team_records(2024)
 #print(advanceStates)
 
-'Answer: the NFC east had the strongest defense based on yards allowed per game in 2024, allowing 326.6 yards per game on average.'
+'Answer: This is a relationship question. The NFC east had the strongest defense based on yards allowed per game in 2024, allowing 326.6 yards per game on average.'
 
 '2. Which wr had the most targets vs receptions in 2024?'
 
